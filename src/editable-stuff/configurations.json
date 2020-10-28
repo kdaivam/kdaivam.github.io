@@ -1,0 +1,43 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "FirstName": "Kanya",
+  "MiddleName": "",
+  "LastName": "Daivam",
+  "devDesc": "| Solutions Architect | Engineering Leader | Mentor | Runner | Mom",
+  "icons": [
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/kanyadaivam/",
+      "style": "socialicons"
+    },
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/kdaivam",
+      "style": "socialicons"
+    },    
+    {
+      "id": 4,
+      "image": "fa-twitter",
+      "url": "https://www.twitter.com/kanyadaivam/",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",  
+  "showInstaProfilePic": true,
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "I'm an Engineering manager. My strengths are data engineering, Machine learning and a newbie in UI. I lead, coach, hire and develop the engineering team. I have MBA from Santa Clara University,CA and Bachelors in Computer Science from India",
+  "projectHeading": "Recent Projects",
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "",
+  "instaQuerry": "/?__a=1",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "kdaivam",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 4,
+  "showNavigationbar": true,
+  "showBlog": false
+}
